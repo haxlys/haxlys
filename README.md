@@ -1,5 +1,13 @@
-### Hi there 👋
+### Who am I
+Frontend developer playing in the browser
 
+### Favorite things
+- react
+- nextjs, gatsby
+- typescript
+- css
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxlys&count_private=true&theme=dark)](https://github.com/haxlys/github-readme-stats)
+### Top Langs?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxlys&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
